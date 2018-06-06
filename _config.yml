@@ -105,3 +105,5 @@ values:
       type: page
 values:
     layout: docwithnav
+
+theme: jekyll-theme-slate
